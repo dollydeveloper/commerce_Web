@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      {
+        "source": "/react-store-products",
+        "destination": "https://course-api.com/react-store-products"
+      },
+      {
+        "source": "/react-store-single-product",
+        "destination": "https://course-api.com/react-store-single-product"
+      }
+    ]
+  }
