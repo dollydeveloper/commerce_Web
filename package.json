@@ -24,10 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "dev": "netlify dev"
+    "build": "react-scripts build",
+    "deploy": "npm run build && netlify deploy"
   },
   "eslintConfig": {
     "extends": [
