@@ -14,7 +14,7 @@ const Hero = () => {
         <p>
         Welcome to "Design Your Comfort Zone," your ultimate destination for creating a home that truly reflects your style and comfort. At our store, we believe that your home should be a sanctuary where you can relax, rejuvenate, and feel at ease. Whether you’re looking for modern, minimalist furniture, cozy and inviting home decor, or innovative storage solutions, we have everything you need to transform your space.
 
-Our curated collection features a wide range of high-quality products from trusted brands and artisans, ensuring that every piece you choose is designed to last and enhance your living experience. From luxurious sofas and elegant dining sets to chic lighting and unique decorative accessories, our offerings cater to every taste and preference.
+ living experience. From luxurious sofas and elegant dining sets to chic lighting and unique decorative accessories, our offerings cater to every taste and preference.
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
